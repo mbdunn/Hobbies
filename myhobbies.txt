@@ -1,5 +1,5 @@
-knitting
-skiing
-swimming
-reading
-dancing
+knitting: its relaxing
+skiing: very fun
+swimming: learning
+reading: learning
+dancing: fun
